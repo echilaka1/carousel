@@ -6,4 +6,4 @@ Carousel using just CSS.
 ![Linkedin](www.linkedin.com/in/said-alrove)
 
 ## Screenshot
-![](ss.png)
+![](screenshot.png)
