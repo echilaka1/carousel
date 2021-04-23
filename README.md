@@ -1,4 +1,4 @@
-# Carousel
+# Carousel + Zoom-in-out
 Carousel using just CSS.
 
 ![Twitter](https://twitter.com/said_alrove)
