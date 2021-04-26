@@ -1,5 +1,5 @@
 # Carousel + Zoom-in-out
-Carousel using just CSS.
+Carousel just using CSS.
 
 ![Twitter](https://twitter.com/said_alrove)
 
